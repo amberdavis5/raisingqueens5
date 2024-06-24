@@ -1,0 +1,37 @@
+nav {
+background-color: teal;
+}
+nav table {
+width: 100%;
+border-collapse: collapse;
+}
+nav td {
+width: 25%; 
+text-align: center;
+padding: 14px 0; 
+}
+nav a {
+display: block;
+color: white;
+text-decoration: none;
+padding: 14px 16px;
+}
+nav a:hover {
+background-color: purple;
+}
+table, th, td {
+  border: 1px solid white;
+}
+H1{color:purple;
+}
+H2{color:teal;
+}
+H3{color:teal;
+}
+H4{color:teal;
+}
+body{
+    background-color: pink;font-family: Kristen ITC, serif; 
+    font-size:24px;line-height:1.5em;
+}.box-1{border:3px white solid;}
+.box-2{border:3px white solid;}
